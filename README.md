@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi 👋 I'm Charlotte
 
-<!--
-**chagdj/chagdj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📍 Berlin, Germany  
 
-Here are some ideas to get you started:
+Junior Data Analyst transitioning from Talent Acquisition in tech scale-ups.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩‍💻 About Me
+
+Former Talent Partner collaborating with companies such as Clue and DeepL.  
+Passionate about transforming data into actionable business insights.
+
+## 🛠️ Skills
+
+- Python (Pandas, NumPy, Matplotlib)
+- SQL (Joins, Aggregations, Filtering)
+- Data Visualization
+- Streamlit
+- Excel
+
+## 📊 Projects
+
+- Salary Prediction Model (Python, Scikit-learn)
+- GitHub Talent Sourcing Dashboard (Streamlit, SQL)
+- Data Cleaning & Visualization (Pandas, Matplotlib)
+
+## 🌍 Languages
+
+French (Native) | English (C1) | German (B2)
+
+## 📫 Contact
+
+LinkedIn: [Add your LinkedIn link]  
+Email: charlotte.guedj@gmail.com
