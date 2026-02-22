@@ -1,8 +1,11 @@
-# 🤝𝐖𝐄𝐋𝐂𝐎𝐌𝐄
+🤝 #Welcome to my GitHub!
 
-📍 Berlin, Germany  
+Hi, I’m Charlotte — a Data Analyst transitioning from Talent Acquisition within fast-growing tech scale-ups.
 
-I am Charlotte - Data Analyst transitioning from Talent Acquisition in tech scale-ups.
+I combine people insight with data-driven thinking, turning complex information into actionable decisions.
+
+📍 Based in Berlin, Germany — open to remote opportunities or relocation.
+
 
 ## 👩‍💻 About Me
 
