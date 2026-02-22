@@ -29,5 +29,5 @@ French (Native) | English (C1) | German (B2)
 
 ## 📫 Contact
 
-LinkedIn: [Add your LinkedIn link]  
+LinkedIn: (https://www.linkedin.com/in/charlotte-guedj-8398a763/)  
 Email: charlotte.guedj@gmail.com
