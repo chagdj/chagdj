@@ -1,6 +1,6 @@
  ## 🎯 Welcome to my GitHub!
 
-Hi, I’m Charlotte, a Data Analyst transitioning from Talent Acquisition within fast-growing tech scale-ups.
+I’m Charlotte, a Data Analyst transitioning from Talent Acquisition within fast-growing tech scale-ups.
 
 I combine people insight with data-driven thinking, turning complex information into actionable decisions.
 
