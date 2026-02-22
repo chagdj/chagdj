@@ -7,12 +7,12 @@ I combine people insight with data-driven thinking, turning complex information 
 📍 Based in Berlin, Germany — open to remote opportunities or relocation.
 
 
-## 👩‍💻 About Me
+## About Me
 
 Former Talent Partner collaborating with companies such as Clue and DeepL.  
 Passionate about transforming data into actionable business insights.
 
-## 🛠️ Skills
+## Skills
 
 - Python (Pandas, NumPy, Matplotlib)
 - SQL (Joins, Aggregations, Filtering)
@@ -20,13 +20,13 @@ Passionate about transforming data into actionable business insights.
 - Streamlit
 - Excel
 
-## 📊 Projects
+## Projects
 
 - Salary Prediction Model (Python, Scikit-learn)
 - GitHub Talent Sourcing Dashboard (Streamlit, SQL)
 - Data Cleaning & Visualization (Pandas, Matplotlib)
 
-## 🌍 Languages
+## Languages
 
 French (Native) | English (C1) | German (B2)
 
