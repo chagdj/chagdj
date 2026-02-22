@@ -1,8 +1,8 @@
-# Hi 👋 I'm Charlotte
+# 𝐖𝐄𝐋𝐂𝐎𝐌𝐄
 
 📍 Berlin, Germany  
 
-Junior Data Analyst transitioning from Talent Acquisition in tech scale-ups.
+I am Charlotte - Data Analyst transitioning from Talent Acquisition in tech scale-ups.
 
 ## 👩‍💻 About Me
 
