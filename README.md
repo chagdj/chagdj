@@ -1,4 +1,4 @@
-🤝 ## Welcome to my GitHub!
+🤝 ##  Welcome to my GitHub!
 
 Hi, I’m Charlotte — a Data Analyst transitioning from Talent Acquisition within fast-growing tech scale-ups.
 
