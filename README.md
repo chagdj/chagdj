@@ -4,7 +4,7 @@ Hi!! I’m Charlotte, a Data Analyst transitioning from Talent Acquisition withi
 
 I combine people insight with data-driven thinking, turning complex information into actionable decisions.
 
-📍 Based in Berlin, Germany — open to remote opportunities or relocation.
+📍 Based in Berlin, Germany, open to remote opportunities or relocation.
 
 
 ## About Me
